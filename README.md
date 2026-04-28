@@ -130,4 +130,3 @@ open up localhost:
    - OPENAI_API_KEY
 =======
 -Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
->>>>>>> 8abaea651da792c9bcbae6dc6bc092f1ad82328f
